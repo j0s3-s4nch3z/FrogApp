@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mapa"
+            android:icon="@drawable/mapa"
+            android:title="@string/mapa" />
+        <item
+            android:id="@+id/planifica"
+            android:icon="@drawable/recorrido"
+            android:title="@string/planifica" />
+        <item
+            android:id="@+id/favorito"
+            android:icon="@drawable/favoritos"
+            android:title="@string/favorito" />
+        <item
+            android:id="@+id/busca"
+            android:icon="@drawable/buscar"
+            android:title="@string/busca" />
+        <item
+            android:id="@+id/acerca"
+            android:icon="@drawable/frog"
+            android:title="@string/acerca" />
+        <item
+            android:id="@+id/quitar"
+            android:icon="@drawable/quitar"
+            android:title="@string/quitar" />
+    </group>
+</menu>

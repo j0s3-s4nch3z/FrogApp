@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Transantiago FrogApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="dummy_content">THE BLACK\nSHEEP</string>
+    <string name="map_error">Error de permisos con los mapas</string>
+    <string name="ingreseRecorrido">Busca recorrido o paradero</string>
+    <string name="ingreseMetro">Ingrese linea a buscar ...&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="ingreseParadero">Ingrese paradero a buscar ...&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="ida">Ida</string>
+    <string name="vuelta">Regreso</string>
+    <string name="action_settings">Settings</string>
+    <string name="buses">Buses</string>
+    <string name="metro">Metro</string>
+    <string name="streetmap">StreetMap</string>
+    <string name="tbsh">The Black Sheep</string>
+    <string name="posicionamiento">En cuanto viene mis bus</string>
+    <string name="title_activity_stop">StopActivity</string>
+    <string name="mapa">Mapa</string>
+    <string name="planifica">Planifica tu recorrido</string>
+    <string name="favorito">Favoritos</string>
+    <string name="busca">Buscar</string>
+    <string name="acerca">Acerca de FrogApp</string>
+    <string name="quitar">Quitar publicidad</string>
+    <string name="title_activity_planificacion">PlanificacionActivity</string>
+    <string name="title_activity_buscador">BuscadorActivity</string>
+    <string name="title_activity_favoritos">FavoritosActivity</string>
+    <string name="title_activity_acerca">AcercaActivity</string>
+    <string name="title_activity_publicidad">PublicidadActivity</string>
+</resources>
